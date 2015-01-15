@@ -1,0 +1,15 @@
+{
+  "name": "xlsx-csv-parser",
+  "version": "0.0.1",
+  "description": "This is for parsing xlsx, csv files and storing parsed data inot postgresql tables", 
+  "author": "Kesavkolla & venkat",
+  "dependencies": {
+    "readline": "0.0.5",
+    "stream": "0.0.2",
+    "pg": "latest",
+    "pg-copy-streams": "latest",
+    "xlsx": "latest",
+    "moment": "latest"
+  }
+}
+
